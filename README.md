@@ -6,7 +6,7 @@
 </div>
 </p>
 <h2 align="center">Hello there! My name is Izabela. 👋🤓</h2>
-<p align="center"> I'm open-minded and creative Full Stack JavaScript Developer from Poland living in Oslo, Norway. From over 1000 applicants, I was one of ~30 students selected to partake in a highly paced and very intensive Full Stack JavaScript Developer program. I  successfully completed the bootcamp and now I follow my passion for programming, learning every day and developing my skills.
+<p align="center"> I'm Full Stack Developer from Poland, currently based in Oslo, Norway. I hold a finance and accountancy degree and have gained experience in a diverse range of industries. My passion for programming led me to pursue a career in software development with a special interest in frontend and UX.
 </p>
 
 <p align="center">When I'm not coding, you can find me somewhere in the woods or on my way to explore the world on my VW T4 California🌲🌳🌲🌳🌲 </p>
