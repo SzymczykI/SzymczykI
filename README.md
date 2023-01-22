@@ -9,7 +9,7 @@
 <p align="center"> I'm Full Stack Developer from Poland, currently based in Oslo, Norway. I hold a finance and accountancy degree and have gained experience in a diverse range of industries. My passion for programming led me to pursue a career in software development with a special interest in frontend and UX.
 </p>
 
-<p align="center">When I'm not coding, you can find me somewhere in the woods or on my way to explore the world on my VW T4 California🌲🌳🌲🌳🌲 </p>
+<p align="center">When I'm not coding, you can find me somewhere in the woods or on my way to explore the world in my VW T4 California🌲🌳🌲🌳🌲 </p>
 
  <a href="https://www.linkedin.com/in/izabela-szymczyk94/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
